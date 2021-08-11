@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824655582307",
+    "project_id": "practical-f2044",
+    "storage_bucket": "practical-f2044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824655582307:android:79d69cd27845c81f329456",
+        "android_client_info": {
+          "package_name": "com.example.practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824655582307-qdcfr4m958mjacabr0umm828mj277fbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnQhmUUUmwGuWoTPJXN9etpbbMp70Hla8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824655582307-qdcfr4m958mjacabr0umm828mj277fbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
